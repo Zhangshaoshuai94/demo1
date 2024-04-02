@@ -14,5 +14,8 @@ public class Main {
 
         // 第一次提交
         int i = 5;
+
+        // 第二次提交
+        int i2 = 5;
     }
 }
